@@ -1,0 +1,2 @@
+# Dental-Membership-Plan-Page-Design-Accessible-Responsive-Web-Development
+I have  created a fully responsive Dental Membership Plan page that’s clean, accessible, and visually engaging. Built with HTML, CSS, PHP, Sass, and SVG, the layout will highlight membership benefits, pricing, and calls-to-action clearly—optimized for fast loading, mobile users, and seamless integration into your existing website.
